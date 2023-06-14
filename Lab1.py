@@ -5,3 +5,10 @@ def calculate_age():
     print("Your age is", age)  # print the age
 
 calculate_age()  # call the function
+
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
